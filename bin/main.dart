@@ -8,8 +8,8 @@ void main(){
   print(myKeyboard.modelName);
   print(myKeyboard.usesPurpose);
 
-  Keyboard riyadKeyboard = Keyboard('Rezar', 'vp99');
-  riyadKeyboard.modelName = 'TKL613 half';
+  Keyboard riyadKeyboard = Keyboard('Rezar', 'viper99');
+  riyadKeyboard.modelName = 'habijabi model name';
 
   // print(riyadKeyboard.modelName);
   riyadKeyboard.printKeyboardName();
